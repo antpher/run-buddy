@@ -6,9 +6,11 @@
   }
 .page-title {
     color: #fce138;
+}
+.h2 {
     display: inline-block;
     border-bottom: 4px solid #fce138;
-    top: 0
+    top: 0;
     right: 80px;
     bottom: 15px;
     left: 80px;
@@ -18,7 +20,9 @@
 }
 .secondary-content {
     width: 80%;
-    margin: 0;
+    margin: auto;
+}
+.article {
     color: #024e76;
 }
 .h3 {
@@ -35,6 +39,12 @@
     margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
+}
+.ul {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .li {
     color: #39a6b2;
